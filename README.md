@@ -66,8 +66,9 @@ Nblack charman
 <body>  <header>
     <img src="nblack-charman.jpg" alt="Nblack Charman">
     <h1>Nblack Charman</h1>
-    <p>Je suis Nblack Charman, de mon vrai nom Abdoul Nasser Boubacar Saikou Maïga. 
-       Artiste passionné, je partage mon univers à travers ma voix, mes mots et mon énergie unique.</p>
+    <p>Né le 9 mars 2001 à Niamey (Niger), *Abdoul Nasser*, connu sous le nom d’artiste *Nblack Charman*, est un rappeur, chanteur hip-hop et compositeur engagé sur la scène urbaine nigérienne. Il débute sa carrière musicale en 2016, se faisant rapidement remarquer par son style percutant, ses textes lourds de sens et ses performances visuelles de haut niveau.Parallèlement à sa carrière artistique, il poursuit ses études jusqu’au niveau Master, combinant exigence académique et passion musicale. Son univers mélange flow puissant, messages profonds et productions soignées, affirmant sa place parmi les jeunes talents du rap africain.
+
+Toujours actif, Nblack Charman continue de dévoiler des sons marquants et des clips à la réalisation soignée, témoignant d’une ambition affirmée et d’un engagement artistique constant..</p>
   </header>  <div class="video">
     <p>Découvre mon univers sur ma chaîne YouTube :</p>
     <a href="https://youtube.com/@nblack-charman?si=KLdbDIL3g5fiqmXS" target="_blank">@nblack-charman</a>
